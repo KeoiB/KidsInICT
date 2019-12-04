@@ -14,7 +14,7 @@
 
 
 .neditor > .ne_toolbar{
-  diplay: none;
+  diplay: none !important;
 }
 
 
