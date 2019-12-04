@@ -11,6 +11,14 @@
 *	Edit this section
 *
 * ======================================================= */
+
+
+#neditor{
+  diplay: none !important;
+}
+
+
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.6;
