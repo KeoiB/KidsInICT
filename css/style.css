@@ -13,8 +13,8 @@
 * ======================================================= */
 
 
-.neditor{
-  diplay: none !important;
+.neditor > .ne_toolbar{
+  diplay: none;
 }
 
 
